@@ -1,2 +1,1 @@
-# umi-journey
-UMI学习
+# UMI学习
